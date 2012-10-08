@@ -1,5 +1,77 @@
-h1 {
- font-family: Helvetica;
-color: red;
-
+body {
+ background: #CCFFFF;
+ border-top: 5px solid #424242;
+ margin: 0;
+ font-family: "Helvetica", sans-serif;
+ line-height: 1.4em;
 }
+
+h1, h2, h3 {
+ margin: 0;
+}
+
+h1 {
+ 
+ padding: 20px 15px;
+ background: #aaa;
+ color: #fff;
+ text-shadow: 1px 1px 2px #424242;
+}
+
+h3 {margin-bottom: 5px;
+}
+
+
+.container {
+ background:#fff;
+ width: 800px;
+ margin: 0 auto;
+ margin-top: 5px;
+ margin-bottom: 5px;
+padding: 5px;
+}
+
+.navbar {
+ height: 30px;
+ width: 100%;
+ border-top:solid #000 1px;
+ border-bottom: solid #000 1px;
+ background-color: #336699;
+}
+
+.navbar ul {
+ margin: 0px;
+ padding: 0px;
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: small;
+ color#FFF;
+ line-height: 30px;
+ white-space: nowrap;
+}
+
+.navbar li {
+ list-style-type: none;
+ display: inline;
+}
+.navbar li a {
+  text-decoration: none;
+  padding: 7px 10px;
+ color: #FFF;
+}
+.navbar lia:link {
+ color: #FFF:
+}
+.navbar lia:visited {
+ color: #CCC;
+}
+.navbar lia:hover {
+ font-weight: bold;
+ color: #FFF;
+ background-color: #3366FF;
+}
+
+
+
+
+
+
