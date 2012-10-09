@@ -1,0 +1,39 @@
+
+
+h1 {
+ font-family: helvetica, sans-serif;
+ padding: 20px 15px;
+ background: #aaa;
+ color: #FFF;
+ text-shadow: 1px 1px 2px #424242;
+}
+
+h2 {
+ font-family: helvetica, sans-serif;
+ padding: 15px;
+ color: #000;
+}
+
+p {
+ font-family: helvetica, sans-serif;
+ padding: 15px;
+ color: #000;
+}
+
+
+.container {
+background:#F0FFF0;
+ width: 700px;
+ margin: 0 auto;
+}
+
+table, tr, td {
+ font-family: helvetica, sans-serif;
+ border: 2px solid #ccc;
+ border-collapse: collapse;
+}
+
+table td {
+ padding: 5px;
+}
+
