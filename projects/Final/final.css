@@ -1,0 +1,134 @@
+
+body {
+ background: url(images/navy.png);
+ margin: 0;
+ font-family: "Helvetica", sans-serif;
+ line-height: 1.4em;
+}
+
+
+
+.container {
+ margin: 0 auto;
+ width: 800px;
+ padding-top: 5px;
+}
+
+section {
+  width:525px;
+  margin-right: 25px;
+  float: left;
+  
+ 
+ }
+
+ aside {
+  width:250px;
+  float: left;
+
+}
+
+ footer {
+  background: (url:images/dvsup.png);
+  clear: both;
+  border-top: 1px solid #e3e3e3;
+ 
+
+}
+
+
+
+
+
+h1, h2, h3 {
+ margin: 0;
+}
+
+h1 {
+ 
+ padding: 20px 15px;
+ background: #aaa;
+ color: #fff;
+ text-shadow: 1px 1px 2px #424242;
+}
+
+h2 {
+ padding:0px 15px 5px 15px;
+ background: #aaa;
+ text-shadow: 1px 1px 2px #424242;
+}
+
+h3 {margin-bottom: 5px;
+}
+
+
+
+
+.navbar {
+ height: 30px;
+ width: 100%;
+ border-top:solid #000 2px;
+ border-bottom: solid #000 1px;
+ background-color: #003300;
+}
+
+.navbar ul {
+ margin: 0px;
+ padding: 0px 0px 0px 5px;
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: small;
+ color#FFF;
+ line-height: 30px;
+ white-space: nowrap;
+}
+
+.navbar li {
+ list-style-type: none;
+ display: inline;
+}
+.navbar li a {
+  text-decoration: none;
+  padding: 7px 10px;
+ color: #FFF;
+}
+.navbar lia:link {
+ color: #FFF:
+}
+.navbar lia:visited {
+ color: #CCC;
+}
+.navbar lia:hover {
+ font-weight: bold;
+ color: #FFF;
+ background-color: #3366FF;
+}
+
+
+.sidenav {
+ float:left;
+ border: solid #000 1px;
+ margin: 5px 0px 5px 10px;
+}
+
+.sidenav ul
+{
+font color: #FFF;
+list-style-type:none;
+margin:10px;
+padding:5px;
+line-height: 3.4em;
+
+}
+
+.sidenav li a {
+  text-decoration: none;
+  padding: 7px 10px;
+  color: #FFF;
+
+.sidenav a
+{
+display:block;
+width:60px;
+
+}
+
